@@ -1,0 +1,4 @@
+//Attention il faut sélectionner avant d'exécuter! (Pour avoir Execute dans Run)
+
+String who = "world";
+System.out.println("hello " + who);
